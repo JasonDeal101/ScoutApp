@@ -1,0 +1,4 @@
+SignInExample.MainActivity, SignInExample;md5647f9f033eed0def234cf2b4bc006904.MainActivity
+SignInExample.MainActivity, SignInExample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5647f9f033eed0def234cf2b4bc006904.MainActivity
+SignInExample.MainActivity;md5647f9f033eed0def234cf2b4bc006904.MainActivity
+signinexample.MainActivity;md5647f9f033eed0def234cf2b4bc006904.MainActivity
