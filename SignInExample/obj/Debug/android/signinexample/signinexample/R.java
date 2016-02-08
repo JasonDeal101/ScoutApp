@@ -15,8 +15,9 @@ public final class R {
         public static final int icon=0x7f020001;
         public static final int logout=0x7f020002;
         public static final int progress1=0x7f020003;
-        public static final int style1=0x7f020004;
-        public static final int style2=0x7f020005;
+        public static final int settingsicon=0x7f020004;
+        public static final int style1=0x7f020005;
+        public static final int style2=0x7f020006;
     }
     public static final class id {
         public static final int delete=0x7f050005;
