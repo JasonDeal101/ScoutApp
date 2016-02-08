@@ -13,5 +13,9 @@ c:\users\crevo_programming 3\documents\visual studio 2015\Projects\SignInExample
 c:\users\crevo_programming 3\documents\visual studio 2015\Projects\SignInExample\SignInExample\obj\Debug\res\drawable\style1.xml
 c:\users\crevo_programming 3\documents\visual studio 2015\Projects\SignInExample\SignInExample\obj\Debug\res\drawable\style2.xml
 C:\Users\Crevo_Programming 3\Documents\Visual Studio 2015\Projects\SignInExample\SignInExample\obj\Debug\res\drawable\progress1.xml
+C:\Users\Crevo_Programming 3\Documents\Visual Studio 2015\Projects\SignInExample\SignInExample\obj\Debug\res\layout\fileoptions.xml
+C:\Users\Crevo_Programming 3\Documents\Visual Studio 2015\Projects\SignInExample\SignInExample\obj\Debug\res\layout\listview_row.xml
+C:\Users\Crevo_Programming 3\Documents\Visual Studio 2015\Projects\SignInExample\SignInExample\obj\Debug\res\drawable\logout.png
+C:\Users\Crevo_Programming 3\Documents\Visual Studio 2015\Projects\SignInExample\SignInExample\obj\Debug\res\drawable\deletestyle.xml
 C:\Users\Crevo_Programming 3\Documents\Visual Studio 2015\Projects\SignInExample\SignInExample\obj\Debug\SignInExample.dll.mdb
 C:\Users\Crevo_Programming 3\Documents\Visual Studio 2015\Projects\SignInExample\SignInExample\bin\Debug\SignInExample.dll.mdb

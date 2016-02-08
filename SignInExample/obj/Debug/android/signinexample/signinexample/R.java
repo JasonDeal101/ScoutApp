@@ -11,20 +11,26 @@ public final class R {
     public static final class attr {
     }
     public static final class drawable {
-        public static final int icon=0x7f020000;
-        public static final int progress1=0x7f020001;
-        public static final int style1=0x7f020002;
-        public static final int style2=0x7f020003;
+        public static final int deletestyle=0x7f020000;
+        public static final int icon=0x7f020001;
+        public static final int logout=0x7f020002;
+        public static final int progress1=0x7f020003;
+        public static final int style1=0x7f020004;
+        public static final int style2=0x7f020005;
     }
     public static final class id {
-        public static final int progressBar1=0x7f050004;
-        public static final int signInBtn=0x7f050001;
-        public static final int signUpBtn=0x7f050003;
-        public static final int textView1=0x7f050002;
-        public static final int txtCreate=0x7f050000;
+        public static final int button1=0x7f050001;
+        public static final int progressBar1=0x7f050006;
+        public static final int signInBtn=0x7f050004;
+        public static final int signUpBtn=0x7f050005;
+        public static final int textView1=0x7f050000;
+        public static final int txtCreate=0x7f050003;
+        public static final int txtName=0x7f050002;
     }
     public static final class layout {
-        public static final int main=0x7f030000;
+        public static final int fileoptions=0x7f030000;
+        public static final int listview_row=0x7f030001;
+        public static final int main=0x7f030002;
     }
     public static final class string {
         public static final int ApplicationName=0x7f040001;
